@@ -36,9 +36,9 @@ Duas palavras podem ser consideradas anagramas de si mesmas se as letras de uma 
 ### Rodando o Projeto: 
 - Você tem duas formas de rodar o projeto [WINDOWS]: 
 
-A primeira é clonando o projeto da seguinte forma, abra o cmd na pasta desejada e digite o comando: git clone https://github.com/odeivissonsantos/Desafio-Proway-Capgemini-2022.git e utilize sua ide de preferência.
+A primeira é clonando o projeto da seguinte forma, abra o cmd na pasta desejada e digite o comando: git clone https://github.com/odeivissonsantos/Desafio-Proway-Capgemini-2022.git e utilize sua ide de preferência, clique na classe principal com o botão direito do mouse, estão com os nomes "Questão1.java", "Questão2.java", "Questão3.java" e por fim "Run Java".
 
-A segunda é baixando o projeto .zip, acesse o link: https://github.com/odeivissonsantos/Desafio-Proway-Capgemini-2022.git, clique em "CODE" e logo após "Download ZIP", abra na IDE de preferência, lembrando que o terminal deve estar no diretório e com a pasta aberta normalmente "Desafio-Proway-Capgemini-2022-master".
+A segunda é baixando o projeto .zip, acesse o link: https://github.com/odeivissonsantos/Desafio-Proway-Capgemini-2022.git, clique em "CODE" e logo após "Download ZIP", abra na IDE de preferência, lembrando que o terminal deve estar no diretório e com a pasta aberta normalmente "Desafio-Proway-Capgemini-2022-master", clique na classe principal com o botão direito do mouse, estão com os nomes "Questão1.java", "Questão2.java", "Questão3.java" e por fim "Run Java".
 
 ### Sobre o Autor/Organizador:
 - Deivisson da Silva Santos;
